@@ -1,0 +1,16 @@
+{
+  "name": "sprint-status",
+  "version": "1.0.0",
+  "description": "Emails the user a skeleton of all Jira tickets assigned to him/her during open sprint. The skeleton can be used to give quick updates to managers during GSD blocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Archit Saini",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "nodemailer": "^6.10.0"
+  }
+}
