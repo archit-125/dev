@@ -1,6 +1,6 @@
 # Monthly Standard Analytics Export
 
-This script runs a standard analytics export query in a loop for a specified YYYYMM. It generates monthly CSV files and compresses them into a ZIP archive.
+This script runs a standard analytics export query in a loop for a specified YYYYMM range. It generates monthly CSV files and compresses them into a ZIP archive.
 
 ## Installation
 
