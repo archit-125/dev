@@ -1,6 +1,4 @@
 require("dotenv").config({ path: "../.env" });
-console.log("GOOGLE_APP_PWD:", process.env.GOOGLE_APP_PWD);
-console.log("JIRA_API_TOKEN:", process.env.JIRA_API_TOKEN);
 const axios = require("axios");
 const {
   EMAIL,
